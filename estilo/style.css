@@ -176,6 +176,8 @@ aside > h3{
 footer{
     background-color: var(--cor5);
     color: white;
+    padding: 10px;
+    margin-bottom: 10px;
     text-align: center;
     font-size: 0.8em;
 }
